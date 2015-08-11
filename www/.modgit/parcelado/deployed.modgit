@@ -1,0 +1,10 @@
+skin/frontend/base/default/js/precoparcelado.js
+skin/frontend/base/default/css/precoparcelado.css
+app/design/frontend/base/default/layout/franciscoprado_precoparcelado.xml
+app/design/frontend/base/default/template/precoparcelado/jsdata.phtml
+app/design/frontend/base/default/template/precoparcelado/table.phtml
+app/etc/modules/FranciscoPrado_PrecoParcelado.xml
+app/locale/pt_BR/FranciscoPrado_PrecoParcelado.csv
+app/code/community/FranciscoPrado/PrecoParcelado/Helper/Data.php
+app/code/community/FranciscoPrado/PrecoParcelado/etc/config.xml
+app/code/community/FranciscoPrado/PrecoParcelado/etc/system.xml
